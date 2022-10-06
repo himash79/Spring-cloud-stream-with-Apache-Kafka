@@ -11,7 +11,7 @@ Build restful webservices utilizing Spring boot as well as intergrate Apache Kaf
 
 01) Clone the project
 
-		git clone https://github.com/himash79/Spring-boot-Apache-Kafka.git
+		https://github.com/himash79/Spring-cloud-stream-with-Apache-Kafka.git
 
 02) Clean and build the project using maven
 
